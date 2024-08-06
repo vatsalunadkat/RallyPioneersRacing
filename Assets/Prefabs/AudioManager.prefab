@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4215927452193941648
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4215927452193941650}
+  - component: {fileID: 4215927452193941649}
+  - component: {fileID: 7363694638438397051}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4215927452193941650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4215927452193941648}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 916.17, y: 0, z: 238.9}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4215927452193941649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4215927452193941648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728b7f4a7d9b74e409ade394a410001c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Screech
+    clip: {fileID: 8300000, guid: f632e2ace80a32e47a2c531f64901a50, type: 3}
+    volume: 0.8
+    blend: 0
+    pitch: 1.2
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Horn
+    clip: {fileID: 8300000, guid: 63db01285427de24288aac790fccbb16, type: 3}
+    volume: 0.8
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Brake
+    clip: {fileID: 8300000, guid: 49290d6e1dee5d543904db4a97e8a50d, type: 3}
+    volume: 1
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Engine_Start
+    clip: {fileID: 8300000, guid: f90d2412cefca404cba80202baddb8d1, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Impact
+    clip: {fileID: 8300000, guid: ea6190085e532954aac88653c3c8bfc9, type: 3}
+    volume: 1
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Nitros
+    clip: {fileID: 8300000, guid: 9eae0956692a4744686d98149ff68057, type: 3}
+    volume: 1
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Forest
+    clip: {fileID: 8300000, guid: f14e8bfdac498dd4f82766090b48e582, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 360
+    minDist: 1
+    maxDist: 500
+    loop: 1
+    source: {fileID: 0}
+  - name: Desert
+    clip: {fileID: 8300000, guid: b90b002a8cd137243a4b5e955f3b220f, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 360
+    minDist: 1
+    maxDist: 500
+    loop: 1
+    source: {fileID: 0}
+  - name: MainMenu
+    clip: {fileID: 8300000, guid: 0869bcc8afadcbd4182169d7dc3e6484, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 360
+    minDist: 1
+    maxDist: 500
+    loop: 1
+    source: {fileID: 0}
+  - name: Click
+    clip: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Select
+    clip: {fileID: 8300000, guid: 79180f511d89441b9aa23ccae1992fe0, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: Cancel
+    clip: {fileID: 8300000, guid: 32d4b1811dda14a6cb9e059ee8ad17d2, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: ShieldDown
+    clip: {fileID: 8300000, guid: a7d33a669e8ca4e4993f4def5138db6e, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+  - name: ShieldUp
+    clip: {fileID: 8300000, guid: fb19b0d79eb60e34cabc3302275efeab, type: 3}
+    volume: 0.7
+    blend: 0
+    pitch: 1
+    spread: 0
+    minDist: 1
+    maxDist: 500
+    loop: 0
+    source: {fileID: 0}
+--- !u!114 &7363694638438397051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4215927452193941648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce369fee71bcb04419a8d53933ac9dc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

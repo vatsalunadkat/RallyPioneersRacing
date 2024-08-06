@@ -1,0 +1,77 @@
+1. Unvik_3D https://assetstore.unity.com/publishers/56083
+ a. Cross_Plains - Lowpoly Environment by Unvik_3D (Link)
+Assets used: CrossPlains_Monuntain_Desert_01, CrossPlains_Monuntain_Desert_02, CrossPlains_Monuntain_Desert_03, CrossPlains_Plant_01, CrossPlains_Plant_02, CrossPlains_Plant_05, CrossPlains_Plant_06, CrossPlains_Plant_07, CrossPlains_Plant_08, CrossPlains_Plant_09, CrossPlains_Plant_10, CrossPlains_Plant_11, CrossPlains_Ribs_01, CrossPlains_Skull_01
+
+2. Yuki2022 (https://assetstore.unity.com/publishers/57827)
+ a. Free Stylized Skybox (https://assetstore.unity.com/packages/2d/textures-materials/sky/free-stylized-skybox-212257)
+Assets used: Sky_Anime_11_morning_a (Forest and Desert skybox).
+
+3. Indian Ocean Assets (https://assetstore.unity.com/publishers/54324)
+ a. Low Poly Cars: Toy Cars (https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-toy-cars-258470)
+Assets used: Car4, Car5, Car6 – modified models and separated wheels models.
+
+4. Mena (https://assetstore.unity.com/publishers/35682)
+ a. PROMETEO: Car Controller (https://assetstore.unity.com/packages/tools/physics/prometeo-car-controller-209444)
+Assets used: TireScreech.wav (oil slick sound)
+
+5. SpinMotion (https://assetstore.unity.com/publishers/41442)
+ a. Racing Starter Kit (https://assetstore.unity.com/packages/p/racing-starter-kit-169750)
+Assets used: GetReady.wav, GoAudio.wav
+
+6. Unity Technologies (https://assetstore.unity.com/publishers/1)
+ a. Terrain Sample Asset Pack (https://assetstore.unity.com/packages/p/terrain-sample-asset-pack-145808)
+Assets used: 
+Terrain Layers: Grass_A_TerrainLayer, Grass_B_TerrainLayer, Grass_Soil_TerrainLayer, Pebbles_C_TerrainLayer, Rock_TerrainLayer, Sand_TerrainLayer, Soil_Rocks_TerrainLayer. 
+Others: Grass_A, Grass_B, Grass_Soil, Pebbles_C, Rock, Sand, Soil_Rocks. (Textures, Normals, and Masks).
+Heightmaps used to create structure terrains – removed after creation.
+
+7. Rowlan (https://assetstore.unity.com/publishers/48228)
+ a. Terrain Textures – FREE (https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-textures-free-271990) 
+Assets used: Grass 02, Grass 06, Gravel 06, Plantlet 01, Sand 01, Sand 02, Sand 03, Sand_Terrain, Soil 01, Scrubs 01, Scrubs 02. All assets used along with their base, normal, heightmap, and mask.
+
+8. AndaSoft (https://assetstore.unity.com/publishers/16)
+ a. EasyRoads3D Free v3 (https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987)
+ 
+9. KenneyNL (https://kenney.nl/)
+ a. Car Kit (https://kenney.nl/assets/car-kit): Assets used: race-buggy-def (modified model), wheel-racing (modified model), wheel-racing_alt (modified model), debris-drivetrain.
+ b. Space Kit (https://kenney.nl/assets/space-kit): bones, craft_miner.
+
+10. Denis Pahunov (https://assetstore.unity.com/publishers/2785)
+ a. Noise Brush (https://assetstore.unity.com/packages/p/noise-brush-28672) 
+Assets used: GreenGrass, Rocks, YellowGrass (Textures and Normal maps), Rocks (material).
+
+11. JustCreate (https://assetstore.unity.com/publishers/44390)
+ a. Low-Poly Simple Nature Pack (https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153)
+Assets used: 
+Terrain Trees: Tree_05, Bush_03, Grass_01, mushroom brown, shrub, fir tree bent, fir tree large, tree medium, fir tree small, fir tree tilted. 
+Others: Branch_01, Bush_01, Bush_03, Flowers_01, Flowers_02, Grass_01, Grass_02, Ground_01, Mushroom_02, Rock_01, Rock_02, Rock_03, Rock_04, Rock_05, Tree_01,
+
+12. Nox_Sound (https://assetstore.unity.com/publishers/52638) 
+ a. Vehicle – Essentials (https://assetstore.unity.com/packages/audio/sound-fx/transportation/vehicle-essentials-194951) 
+Assets used: Vehicle_Car_Start_Engine_Exterior, Vehicle_Car_HandBrake_01, Horn_alt_alt.
+
+13. ALP (https://assetstore.unity.com/publishers/37465) 
+ a. Terrain Textures Pack Free (https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-textures-pack-free-139542) 
+
+14. Kristian Grundström (https://assetstore.unity.com/publishers/34382) 
+ a. ENGINES (https://assetstore.unity.com/packages/audio/sound-fx/engines-123836) 
+Assets used: Engine_03.wav
+
+15. Sagital3D (https://assetstore.unity.com/publishers/4711)
+ a. Desert Kits 64 Sample (https://assetstore.unity.com/packages/3d/environments/landscapes/desert-kits-64-sample-86482)
+Assets used: Desert_Column_Single, Desert_Column_TopRuined, Desert_Obelisk_Stand, Desert_Pyramid_Medium, Desert_Temple_Entrance, Pyramid_Thin_Tip
+
+16. Elder Crivelari Teixeira (https://assetstore.unity.com/publishers/29249) 
+ a. Seamless Hand-Drawn Textures (https://assetstore.unity.com/packages/2d/textures-materials/tiles/seamless-hand-drawn-textures-90760)
+Assets used: Grass, Grass_Tinted, RockFloor
+
+17. Palmov Island (https://assetstore.unity.com/publishers/52130)
+ a. Low Poly Atmospheric Locations Pack (https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-atmospheric-locations-pack-278928) 
+Assets used: materials, chest, railway, sphinx, wooden bridge (modified), bonfire, camping tent, cauldron, wooden pendant, barrel 2, barrel, land space shuttle launch, boat, destroyed ship.
+
+18. Runemark Studio (https://assetstore.unity.com/publishers/5758) 
+ a. POLYDesert (https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196) 
+Assets used: rock06 (modified, floating rocks in desert).
+
+19. LetterCorner Studio
+ Assets used: Monster Racing (font assets).

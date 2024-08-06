@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Opponent
+  - Environment
+  - Road
+  - IgnoredBySensors
+  - Scoreboard
+  - PlayerSaveData
+  - Shield
+  - Camera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - CarCollider
+  - Post
+  - PowerUps
+  - Opponents
+  - OilDeductible
+  - PostProcessing
+  - UICamera
+  - CollidableObjects
+  - HideInMainCamera
+  - ShowInMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
