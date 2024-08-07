@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-  <img src="Documentation/images/main_screen.png" height="400" />
+  <img src="Documentation/images/main_screen.png" height="350" />
 </div>
 
 The game's main objective is to provide an engaging and entertaining experience while demonstrating fundamental game
@@ -160,8 +160,8 @@ See the [open issues](https://github.com/vatsalunadkat/sleep-pattern-analysis/is
     <td align="center">Gravity and Elasticity effects</td>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/friction.gif" height="300" /></td>
-    <td align="center"><img src="Documentation/images/gravity.gif" height="300" /></td>
+    <td align="center"><img src="Documentation/images/friction.gif" height="200" /></td>
+    <td align="center"><img src="Documentation/images/gravity.gif" height="200" /></td>
   </tr>
 </table>
 
@@ -172,8 +172,8 @@ See the [open issues](https://github.com/vatsalunadkat/sleep-pattern-analysis/is
     <td align="center">Obstacle Avoidance</td>
   </tr>
   <tr>
-    <td align="center"><img src="Documentation/images/detect.gif" height="300" /></td>
-    <td align="center"><img src="Documentation/images/obst_avoid.gif" height="300" /></td>
+    <td align="center"><img src="Documentation/images/detect.gif" height="200" /></td>
+    <td align="center"><img src="Documentation/images/obst_avoid.gif" height="200" /></td>
   </tr>
 </table>
 
