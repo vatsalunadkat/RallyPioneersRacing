@@ -42,6 +42,7 @@
     <li>
       <a href="#project-artifacts">Project Artifacts</a>
       <ul>
+        <li><a href="#game-physics">Game Physics</a></li>
         <li><a href="#npc-ai">NPC AI</a></li>
         <li><a href="#game-details">Game Details</a></li>
       </ul>
@@ -55,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-  <img src="" height="400" />
+  <img src="Documentation/images/main_screen.png" height="400" />
 </div>
 
 The game's main objective is to provide an engaging and entertaining experience while demonstrating fundamental game
@@ -152,10 +153,29 @@ See the [open issues](https://github.com/vatsalunadkat/sleep-pattern-analysis/is
 <!-- OTHER ARTIFACTS -->
 ## Project Artifacts
 
+### Game Physics
+<table>
+  <tr>
+    <td align="center">Car Acceleration over different surfaces</td>
+    <td align="center">Gravity and Elasticity effects</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Documentation/images/friction.gif" height="300" /></td>
+    <td align="center"><img src="Documentation/images/gravity.gif" height="300" /></td>
+  </tr>
+</table>
+
 ### NPC AI
-<img src="" height="400" />
-<img src="" height="400" />
-<img src="" height="400" />
+<table>
+  <tr>
+    <td align="center">Ray-trace Detection System</td>
+    <td align="center">Obstacle Avoidance</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Documentation/images/detect.gif" height="300" /></td>
+    <td align="center"><img src="Documentation/images/obst_avoid.gif" height="300" /></td>
+  </tr>
+</table>
 
 ### Game Details
 <details>
@@ -349,12 +369,11 @@ See the [open issues](https://github.com/vatsalunadkat/sleep-pattern-analysis/is
 
 
 
-
 <!-- CONTACT -->
 ## Contact
 
 Vatsal Paresh Unadkat - vunadkat6@gatech.edu
-Project Link: [https://github.gatech.edu/vunadkat6/sleep-pattern-analysis](https://github.gatech.edu/vunadkat6/sleep-pattern-analysis)
+LinkedIn Profile: [https://github.gatech.edu/vunadkat6/sleep-pattern-analysis](https://www.linkedin.com/in/vatsalunadkat/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
