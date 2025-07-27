@@ -62,7 +62,7 @@
 The game's main objective is to provide an engaging and entertaining experience while demonstrating fundamental game
 development concepts. The development process will involve designing and modeling 3D assets,
 scripting game mechanics using C#, and integrating various components within the Unity environment.
-We plan to build a functional and enjoyable racing game with progressive difficulty levels from scratch.
+The plan was to build a functional and enjoyable racing game with progressive difficulty levels from scratch.
 
 Developed as a part of CS 6457: Video Game Design (Summer Term 2024) - Online Master of Science in Computer Science (OMSCS)
 
